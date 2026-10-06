@@ -1,0 +1,113 @@
+/* Custom Styles for the Tabs and Form */
+.nav-link {
+    color: white !important;
+    border-radius: 0 !important;
+    padding: 1rem 0 !important;
+    font-size: 1.1rem !important;
+  }
+  
+  .nav-pills .nav-link.active, 
+  .nav-pills .show > .nav-link {
+    background-color: #CC4452 !important;
+  }
+  
+  .form-label {
+    font-size: 0.9rem !important;
+  }
+  
+  button {
+    background-color: #cc4452;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  button:hover {
+    background-color: #992738;
+  }
+
+  /* NAVBAR */
+.nav-link {
+    padding: 1rem;  /* p-3 in Bootstrap */
+    font-size: 1rem; /* fs-6 */
+    color: #6c757d !important;  /* text-secondary */
+    transition: color 0.3s ease; /* Smooth transition on hover */
+}
+
+.nav-link:hover {
+    color: white !important;  /* Change text color on hover */
+}
+
+.nav-link.active {
+    background-color: #CC4452 !important;  /* Active state background */
+    color: white !important;  /* Active state text color */
+}
+
+.navbar-brand {
+    font-size: 1.5rem;  /* fs-4 */
+    font-weight: 400;  /* fw-normal */
+    color: #dc3545 !important;  /* text-danger */
+}
+
+.navbar-toggler {
+    margin: 1rem 0;  /* my-3 */
+}
+
+/* Contact banner */
+.bannerCom {
+    background-image: url('assets/other/img-1.jpg');  /* Adjust the path to your image */
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 1rem;
+    padding: 3rem 1.5rem; /* Equivalent to p-5 */
+    text-align: center;
+    color: #585858; /* Adjust based on image */
+}
+
+.separator {
+    width: 60px;
+    height: 4px;
+    background-color: #CC4452; /* Adjust the color as needed */
+    margin: 0.5rem auto;
+}
+
+.breadcrumb {
+    display: flex;
+    justify-content: center;
+    margin-top: 0.7rem;
+    background-color: transparent; /* Remove background */
+}
+
+.breadcrumb a {
+    text-decoration: none;
+    color: #585858;  /* Adjust link color based on your image */
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+    content: '>';
+    color: white; /* Adjust separator color */
+}
+
+/* Contact Section */
+.span-line {
+    width: 50px;
+    border-top: 3px solid #CC4452;
+    margin: 10px 0;
+}
+
+.list-group-item:hover {
+    background-color: rgba(238, 236, 236, 0.487);
+}
+
+.icon-red {
+    color: #CC4452;
+}
+/* footer */
+.line-red {
+            width: 50px;
+            height: 3px;
+            background-color: #dc3545
+        }
+.ResBtn {
+}

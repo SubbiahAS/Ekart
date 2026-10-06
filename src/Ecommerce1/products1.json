@@ -1,0 +1,454 @@
+[
+    {
+        "_id" : "636a3dfe8e793faeb29f9dbe",
+        "price" : 600,
+        "stockQuantity" : 1,
+        "category" : "Pants",
+        "name" : "Lycra Pants",
+        "description" : "L",
+        "img" :"https://ghpc.in/cdn/shop/files/ghpc-polyester-lycra-plain-solid-streatchable-pant-for-men-black-ghpc-1-35288342888724.jpg?v=1705235830&width=2048"
+    },
+    {
+        "_id" : "636a3d988e793faeb29f9dba",
+        "price" : 1000,
+        "stockQuantity" : 1,
+        "category" : "Jeans",
+        "name" : "Men's Jeans",
+        "description" : "M",
+        "img" :"https://5.imimg.com/data5/SELLER/Default/2023/7/325793679/VG/QG/OO/112684275/mens-denim-jeans-pant.JPG"
+    },
+    {
+        "_id" : "636a3d458e793faeb29f9db6",
+        "price" : 800,
+        "stockQuantity" : 1,
+        "category" : "Activewear",
+        "name" : "Sports Activewear",
+        "description" : "M",
+        "img" :"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS-bLbILWpPggQKCP1o-viP8WjUKFOXu_dDqoL-FhwmG1yu8BdgbEnLSXlilA-FGlqw7t1duFw_nE3CA2Va8bBFI_ljf9Sicz51oDd748s5&usqp=CAE"
+    },
+    {
+        "_id" : "636a3cdd8e793faeb29f9db2",
+        "price" : 700,
+        "stockQuantity" : 1,
+        "category" : "Skirts",
+        "name" : "Women's Skirts",
+        "description" : "L",
+        "img" :"https://media.istockphoto.com/id/1411357121/photo/traditional-bridal-wear-lehenga-clothes-for-indian-bride.jpg?s=612x612&w=0&k=20&c=te6dsrCqbfUfT9-NGK4LmZglfPoAtSaw5l1J5r8EyrU="
+    },
+    {
+        "_id" : "636a3c818e793faeb29f9dae",
+        "price" : 700,
+        "stockQuantity" : 1,
+        "category" : "Tops",
+        "name" : "Women's Tops",
+        "description" : "L",
+        "img" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNG0z67hGb6pWL5SEmfFKtI0BUgUg-hfCljg&s"
+    },
+    {
+        "_id" : "636a3c068e793faeb29f9daa",
+        "price" : 800,
+        "stockQuantity" : 1,
+        "category" : "Sweaters",
+        "name" : "Women's Jumpers",
+        "description" : "L",
+        "img" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjfmOAVBHmtSnylrvyabaRb6PBuT0lefGi4Q&s"
+    },
+    {
+        "_id" : "636a3bb68e793faeb29f9da6",
+        "price" : 300,
+        "stockQuantity" : 1,
+        "category" : "Accessories",
+        "name" : "Face Masks",
+        "description" : "M",
+        "img" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzlBBT4-AJ8z6odTYfZbQrNAgAF6PuVLq1dA&s"
+    },
+    {
+        "_id" : "636a3b5d8e793faeb29f9da2",
+        "price" : 600,
+        "stockQuantity" : 1,
+        "category" : "Footwear",
+        "name" : "Formal Shoes",
+        "description" : "S",
+        "img" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyAcxtReZqE__ZWMCtrRKjjKPx12mi4qY2Ng&s"
+    },
+    {
+        "_id" : "636a3af58e793faeb29f9d9e",
+        "price" : 400,
+        "stockQuantity" : 1,
+        "category" : "Accessories",
+        "name" : "Jewellery",
+        "description" : "L",
+        "img" :"https://rudradhan.com/cdn/shop/files/IMG_3955.jpg?v=1712071971&width=2158"
+    },
+    {
+        "_id" : "636a3a8f8e793faeb29f9d9b",
+        "price" : 600,
+        "stockQuantity" : 1,
+        "category" : "Swimwear",
+        "name" : "Men's Swimwear",
+        "description" : "L",
+        "img" :"https://sppartos.com/cdn/shop/products/product-image-884242415_580x.jpg?v=1581274660"
+    },
+    {
+        "_id" : "636a34048e793faeb29f9d98",
+        "price" : 250,
+        "stockQuantity" : 1,
+        "category" : "Accessories",
+        "name" : "Hair Accessories",
+        "description" : "L",
+        "img" :"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/18789050/2024/8/1/c73c3652-9082-4517-8a86-1ec455e4d18b1722495287659-Yellow-Chimes-Women-White--Gold-Toned-Embellished-Leaf-Hair--1.jpg"
+    },
+    {
+        "_id" : "636a33ae8e793faeb29f9d95",
+        "price" : 700,
+        "stockQuantity" : 1,
+        "category" : "Kidswear",
+        "name" : "Baby Boy Costumes",
+        "description" : "S",
+        "img" :"https://i5.walmartimages.com/asr/19d552f0-4c2d-4c20-afd9-16f6efa79948.3efb7c1335b4d59afbb18e59f42953b1.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+    },
+    {
+        "_id" : "636a329f8e793faeb29f9d92",
+        "price" : 800,
+        "stockQuantity" : 1,
+        "category" : "Kidswear",
+        "name" : "Baby Costumes",
+        "description" : "S",
+        "img" :"https://i5.walmartimages.com/asr/8336aadb-70a1-4787-a572-8af2b35129ff.41a42bd1ff8281124e3e4c15180897a7.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+    },
+    {
+        "_id" : "636a2db88e793faeb29f9d8e",
+        "price" : 600,
+        "stockQuantity" : 1,
+        "category" : "Sleepwear",
+        "name" : "Nightwear",
+        "description" : "L",
+        "img" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa_onDmwT03XVsPDJtZ38jj0i_MTVEEHFTOaLaslg81pHbsv-owH-u5EG78dCm02i7J-Q&usqp=CAU"
+    },
+    {
+        "_id" : "636a2ca28e793faeb29f9d8a",
+        "price" : 300,
+        "stockQuantity" : 1,
+        "category" : "Accessories",
+        "name" : "Belts",
+        "description" : "L",
+        "img" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRNb1xm4J9NAGVciWsGKvKfCl3ekCWQBKFuQ&s"
+    },
+    {
+        "_id" : "636a2c298e793faeb29f9d86",
+        "price" : 800,
+        "stockQuantity" : 1,
+        "category" : "Jeans",
+        "name" : "Teen Girl Jeans",
+        "description" : "M",
+        "img" :"https://sc01.alicdn.com/kf/H7ac9ac426a3a4e9ca5016e2fd2034b04p.jpg"
+    },
+    {
+        "_id" : "636a2b838e793faeb29f9d82",
+        "price" : 800,
+        "stockQuantity" : 1,
+        "category" : "Kidswear",
+        "name" : "Baby Boy Accessories",
+        "description" : "S",
+        "img" :"https://m.media-amazon.com/images/I/61P4JY7fDSL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "_id" : "636a2af18e793faeb29f9d7e",
+        "price" : 700,
+        "stockQuantity" : 1,
+        "category" : "Sweaters",
+        "name" : "Men's Hoodies",
+        "description" : "L",
+        "img" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS3L-yJcilO5I2EGQkU9QMI4woGJe6I9zbXJxS6cylH-Sh-jEelb3Z4T5UB0r2RC4IkhI&usqp=CAU"
+    },
+    {
+        "_id" : "636a2a7f8e793faeb29f9d7a",
+        "price" : 900,
+        "stockQuantity" : 1,
+        "category" : "Jewelry",
+        "name" : "Men's Jewellery",
+        "description" : "L",
+        "img" :"https://m.media-amazon.com/images/I/61-x0PMohfL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "_id" : "636a24ab8e793faeb29f9d76",
+        "price" : 300,
+        "stockQuantity" : 1,
+        "category" : "Accessories",
+        "name" : "Tie",
+        "description" : "L",
+        "img" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ktvY0T2qRZkqnTkBPXoUr2pS2-VCssMfeg&s"
+    },
+    {
+        "_id" : "636a210c8e793faeb29f9d72",
+        "price" : 1500,
+        "stockQuantity" : 1,
+        "category" : "Suits",
+        "name" : "Men's Suits",
+        "description" : "L",
+        "img" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuwhRZzT3k2jSqC7UHkb1OEk6WkpbDnERc4fpZdzNs_dxSZlOZDEHUA7Ct1eGsoDYPH4A&usqp=CAU"
+    },
+    {
+        "_id" : "636a20a08e793faeb29f9d6f",
+        "price" : 600,
+        "stockQuantity" : 1,
+        "category" : "Boots",
+        "name" : "Leather Boots",
+        "description" : "L",
+        "img" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwZ85Q5NRk5oBb-dA--nvYS2P6PYDGeTrhzA&s"
+    },
+    {
+        "_id" : "636a203c8e793faeb29f9d6c",
+        "price" : 800,
+        "stockQuantity" : 1,
+        "category" : "Dresses",
+        "name" : "Women's Dresses",
+        "description" : "L",
+        "img" :"https://img.faballey.com/images/Product/XKS00296Z/d3.jpg"
+    },
+    {
+        "_id" : "636a1f998e793faeb29f9d68",
+        "price" : 500,
+        "stockQuantity" : 1,
+        "category" : "Skirts",
+        "name" : "Women’s Skirts",
+        "description" : "L",
+        "img" :"https://assets.ajio.com/medias/sys_master/root/20240207/kJli/65c305f516fd2c6e6ae1edfe/-473Wx593H-467039652-green-MODEL.jpg"
+    },
+    {
+        "_id" : "636a1e858e793faeb29f9d64",
+        "price" : 600,
+        "stockQuantity" : 1,
+        "category" : "T-Shirts",
+        "name" : "Men's T-Shirt",
+        "description" : "M",
+        "img" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-I6WR3r6r9C-4H7e9vVdSOUXkP1dEc3Qvpg&s"
+    },
+    {
+        "_id" : "636a1d2f8e793faeb29f9d60",
+        "price" : 1000,
+        "stockQuantity" : 1,
+        "category" : "T-Shirts",
+        "name" : "Women’s T-Shirts",
+        "description" : "L",
+        "img" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTShnDQ2fhrrkjD235-hUUGa7R712uHqde17g&s"
+    },
+
+    {
+        "_id": "636b3a1a8e793faeb29f9e00",
+        "price": 550,
+        "stockQuantity": 1,
+        "category": "T-Shirts",
+        "name": "Graphic T-Shirt",
+        "description": "M",
+        "img": "https://i.etsystatic.com/32836336/r/il/ec0e01/4617875256/il_570xN.4617875256_513r.jpg"
+    },
+    {
+        "_id": "636b3a5d8e793faeb29f9e03",
+        "price": 650,
+        "stockQuantity": 1,
+        "category": "Trousers",
+        "name": "Casual Trousers",
+        "description": "L",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiSpQVWsxvV-HFinmhst2v-wF-QGyqt1r-CQ&s"
+    },
+    {
+        "_id": "636b3aad8e793faeb29f9e06",
+        "price": 1200,
+        "stockQuantity": 1,
+        "category": "Watches",
+        "name": "Men's Wristwatch",
+        "description": "S",
+        "img": "https://s.alicdn.com/@sc04/kf/H404ea376349f41c9abe4c4a0c14cfcf9s.jpg_720x720q50.jpg"
+    },
+    {
+        "_id": "636b3b018e793faeb29f9e09",
+        "price": 700,
+        "stockQuantity": 1,
+        "category": "Footwear",
+        "name": "Running Shoes",
+        "description": "L",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUwWTs2mkHLqPVuHaT2n_-xW5XaIrmDa6o5P3k6XgZCueqimgmUjCa5Qd12AXO73FvqBU&usqp=CAU"
+    },
+    {
+        "_id": "636b3b448e793faeb29f9e0c",
+        "price": 800,
+        "stockQuantity": 1,
+        "category": "Shirts",
+        "name": "Formal Shirt",
+        "description": "M",
+        "img": "https://5.imimg.com/data5/ECOM/Default/2023/8/338422158/SF/KG/IA/90605508/1693081521581-sku-5718-0-500x500.jpg"
+    },
+    {
+        "_id": "636b3b9a8e793faeb29f9e0f",
+        "price": 600,
+        "stockQuantity": 1,
+        "category": "T-Shirts",
+        "name": "Striped T-Shirt",
+        "description": "L",
+        "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F87%2F3d%2F873d5c2b9ab478a2a4501f931cbccf25d1390349.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"
+    },
+    {
+        "_id": "636b3bf48e793faeb29f9e12",
+        "price": 900,
+        "stockQuantity": 1,
+        "category": "Trousers",
+        "name": "Slim Fit Trousers",
+        "description": "M",
+        "img": "https://images.bestsellerclothing.in/data/JJ/14-dec-2022/299444301_g1.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto"
+    },
+    {
+        "_id": "636b3c428e793faeb29f9e15",
+        "price": 1500,
+        "stockQuantity": 1,
+        "category": "Watches",
+        "name": "Luxury Watch",
+        "description": "L",
+        "img": "https://img.tatacliq.com/images/i19//658Wx734H/MP000000023041620_658Wx734H_202407262021321.jpeg"
+    },
+    {
+        "_id": "636b3c918e793faeb29f9e18",
+        "price": 750,
+        "stockQuantity": 1,
+        "category": "Footwear",
+        "name": "Casual Sneakers",
+        "description": "M",
+        "img": "https://shopify-app-group-product.s3.amazonaws.com/1715086645152-8.jpg"
+    },
+    {
+        "_id": "636b3cd48e793faeb29f9e1b",
+        "price": 850,
+        "stockQuantity": 1,
+        "category": "Shirts",
+        "name": "Denim Shirt",
+        "description": "L",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8E6pULzV4-q5-M4ch-bcm-snWDr5fSIIvkzAJ72SdXnY5k9BRXfwno-qcjXq91phL7A&usqp=CAU"
+    },
+    {
+        "_id": "636b3d2a8e793faeb29f9e1e",
+        "price": 500,
+        "stockQuantity": 1,
+        "category": "T-Shirts",
+        "name": "Cotton T-Shirt",
+        "description": "S",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUREUh8IRc0Q6I7GE6edGtgC7GRdiBaIMtQ&s"
+    },
+    {
+        "_id": "636b3d7e8e793faeb29f9e21",
+        "price": 700,
+        "stockQuantity": 1,
+        "category": "Trousers",
+        "name": "Khaki Trousers",
+        "description": "M",
+        "img": "https://shop.westside.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0266%2F6276%2F4597%2Ffiles%2F300976378KHAKI_1.jpg%3Fv%3D1714996079&w=2048&q=75"
+    },
+    {
+        "_id": "636b3de48e793faeb29f9e24",
+        "price": 1300,
+        "stockQuantity": 1,
+        "category": "Watches",
+        "name": "Sports Watch",
+        "description": "S",
+        "img": "https://img.mensxp.com/media/content/2023/Jan/green-sports-watch-for-men-with-a-huge-plastic-dial_63cf7c5db15aa.jpeg?w=780&h=585&cc=1"
+    },
+    {
+        "_id": "636b3e398e793faeb29f9e27",
+        "price": 900,
+        "stockQuantity": 1,
+        "category": "Footwear",
+        "name": "Leather Sandals",
+        "description": "L",
+        "img": "https://images-cdn.ubuy.co.in/633ad4a65ed8847df933ee5a-globalhandmade-midsummer-men-x27-s.jpg"
+    },
+    {
+        "_id": "636b3e9d8e793faeb29f9e2a",
+        "price": 600,
+        "stockQuantity": 1,
+        "category": "Shirts",
+        "name": "Plaid Shirt",
+        "description": "M",
+        "img": "https://i.ebayimg.com/images/g/23oAAOSwkttkb1gL/s-l1200.jpg"
+    },
+    {
+        "_id": "636b3f018e793faeb29f9e2d",
+        "price": 700,
+        "stockQuantity": 1,
+        "category": "T-Shirts",
+        "name": "Long Sleeve T-Shirt",
+        "description": "L",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdvQavipyUTRUf_oPiuEoJ2-csmmnnMPPzVfsP3FRGWJy8WtE141l3lAwV1HesYhsN20&usqp=CAU"
+    },
+    {
+        "_id": "636b3f5a8e793faeb29f9e30",
+        "price": 800,
+        "stockQuantity": 1,
+        "category": "Trousers",
+        "name": "Cargo Pants",
+        "description": "S",
+        "img": "https://i.pinimg.com/736x/20/2e/63/202e6398778c702602db8270cea799f5.jpg"
+    },
+    {
+        "_id": "636b3fc08e793faeb29f9e33",
+        "price": 2000,
+        "stockQuantity": 1,
+        "category": "Watches",
+        "name": "Smart Watch",
+        "description": "L",
+        "img": "https://media.croma.com/image/upload/v1685025060/Croma%20Assets/Communication/Wearable%20Devices/Images/263701_0_oeuble.png"
+    },
+    {
+        "_id": "636b40188e793faeb29f9e36",
+        "price": 650,
+        "stockQuantity": 1,
+        "category": "Footwear",
+        "name": "Ankle Boots",
+        "description": "S",
+        "img": "https://img.ltwebstatic.com/images3_spmp/2023/09/23/a7/1695434146a151b0a36b5525d81f8180d461e84bbc_thumbnail_720x.jpg"
+    },
+    {
+        "_id": "636b407b8e793faeb29f9e39",
+        "price": 950,
+        "stockQuantity": 1,
+        "category": "Shirts",
+        "name": "Oxford Shirt",
+        "description": "M",
+        "img": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1720041237-mhl-oxford-taylor-stitch-546-6685bef8713b1.jpg?crop=0.484xw:0.726xh;0.253xw,0.0769xh&resize=980:*"
+    },
+    {
+        "_id": "636b40d08e793faeb29f9e3c",
+        "price": 500,
+        "stockQuantity": 1,
+        "category": "T-Shirts",
+        "name": "V-Neck T-Shirt",
+        "description": "S",
+        "img": "https://rukminim2.flixcart.com/image/850/1000/kdoup3k0-0/t-shirt/p/j/u/s-vneck-menkovy-original-imafujq2hz2zmbdz.jpeg?q=90&crop=false"
+    },
+    {
+        "_id": "636b41258e793faeb29f9e3f",
+        "price": 700,
+        "stockQuantity": 1,
+        "category": "Trousers",
+        "name": "Linen Trousers",
+        "description": "L",
+        "img": "https://static.thcdn.com/images/large/original//productimg/1600/1600/15151167-1585116212222753.jpg"
+    },
+    {
+        "_id": "636b41788e793faeb29f9e42",
+        "price": 1800,
+        "stockQuantity": 1,
+        "category": "Watches",
+        "name": "Classic Watch",
+        "description": "M",
+        "img": "https://www.mvmt.com/dw/image/v2/BDKZ_PRD/on/demandware.static/-/Sites-mgi-master/default/dwac56b6bc/images/products/28000436_fr.jpg?sw=600&sh=600"
+    },
+    {
+        "_id": "636b41d08e793faeb29f9e45",
+        "price": 900,
+        "stockQuantity": 1,
+        "category": "Footwear",
+        "name": "Loafers",
+        "description": "L",
+        "img": "https://attitudist.com/cdn/shop/files/Attitudist-Handcrafted-Glossy-Brown-Penny-Loafer-With-Double-Stitched-Welts-For-Men-MTOBSF-1694596462163.jpg?v=1721122759&width=2000"
+    }
+
+]
